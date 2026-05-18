@@ -1,0 +1,4 @@
+key;title;input_file;sample_rate;channels_original;duration_sec;pitch_min_hz;pitch_max_hz;richest_f0_hz;richest_time_sec;harmonic_count
+a;Гласный А;a.wav;44100;1;9.845261;104.255;1225.000;1225.000;0.105;12
+i;Гласный И;i.wav;48000;1;8.832000;108.844;1200.000;1142.857;0.185;13
+animal;Имитация животного / крик;animal.wav;48000;1;6.677333;83.770;1200.000;94.862;1.005;14
